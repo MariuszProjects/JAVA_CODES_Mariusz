@@ -9,7 +9,7 @@ public class SumOfInputDigits {
         int digit;
 
        do {
-           System.out.println("Please enter an integer, if you want to sum digits, press '0': ");
+           System.out.println("Please enter an integer, if you want to sum the numbers, press '0': ");
            digit = sumDigits.nextInt();
            sum+=digit;
        }
