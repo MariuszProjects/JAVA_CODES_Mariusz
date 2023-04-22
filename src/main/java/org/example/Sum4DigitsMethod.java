@@ -14,8 +14,7 @@ public class Sum4DigitsMethod {
         System.out.println("Please try again and provide 4 digit number, re-run the program");
     }
         else {
-            System.out.println("The sum of entered digits of the number is: ");
-            System.out.println(sumDigits(number));
+            System.out.println("The sum of entered digits of the number is: " + sumDigits(number));
             }
     }
     public static int sumDigits(int number) {
