@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b63931fa-a02e-4e1e-bf0c-8c20c162a717" name="Changes" comment="Examples of JAVA codes UPDATED">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzzScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682152814786</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Examples of JAVA codes UPDATED">
+      <created>1683383814393</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683383814393</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Examples of JAVA codes UPDATED">
+      <created>1683383832852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683383832852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
